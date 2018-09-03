@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
+* Ph.D. in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Physics of Materials, University of Athens, 2014-2016. *Grade: 9.28/10.0*
+* B.Sc. in Physics, University of Athens, 2009-2014. *Grade: 8.06/10.0*
+
+# Work experience
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -26,9 +26,9 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
+
+# Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -36,24 +36,34 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+# Awards
+
+* **Winner of DSWeb2018 Dynamical System Software international competition by SIAM.** First place winner of category "Graduate/Undergraduate", using the software **DynamicalSystems.jl** as a submission. For more details please see the [official statement](https://dsweb.siam.org/The-Magazine/Article/winners-of-the-dsweb-2018-software-contest).
+
+* **International Max Planck Research School Scholarship (2016 - 2019).** This 2(+1)-years scholarship covers a full PhD project and was awarded to me on July/2016 for my project “Mesoscopic Transport Theory for Graphene Nanostructures".
+
+# Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
+
+# Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
+
+# Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+# Interests
+- Science
+- Music
+- Painting
+- Videogames
+- Cooking
+- Software Development
