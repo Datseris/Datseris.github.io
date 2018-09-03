@@ -43,11 +43,6 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Talks
-
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 # Teaching
 
@@ -66,9 +61,17 @@ redirect_from:
 
 # Computer Skills
 
-* Expert: Python, Julia, \LaTeX, Microsoft Office, Cubase.
+* Expert: Python, Julia, LaTeX, Microsoft Office, Cubase.
 * Intermediate: C, Photoshop, Corel Photo-paint.
 * Basic: Mathematica, Computer Hardware and Support, 3D Modelling in Maya-2012.
+
+# Talks
+
+You can visit the [talks page of my webpage](https://datseris.github.io/talks/) for a full list of talks I have given over the years.
+
+<!-- <ul>{% for post in site.talks %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul> -->
 
 # Interests
 - Science
