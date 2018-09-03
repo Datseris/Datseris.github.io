@@ -29,13 +29,13 @@ redirect_from:
 
 # Awards
 
-## DSWeb2018 Dynamical System Software international competition by SIAM
+* **DSWeb2018 Dynamical System Software international competition by SIAM**
 
-First place winner of category "Graduate/Undergraduate", using the software **DynamicalSystems.jl** as a submission. For more details please see the [official statement](https://dsweb.siam.org/The-Magazine/Article/winners-of-the-dsweb-2018-software-contest).
+    First place winner of category "Graduate/Undergraduate", using the software **DynamicalSystems.jl** as a submission. For more details please see the [official statement](https://dsweb.siam.org/The-Magazine/Article/winners-of-the-dsweb-2018-software-contest).
 
-## International Max Planck Research School Scholarship (2016 - 2019)
+* **International Max Planck Research School Scholarship (2016 - 2019)**
 
-This 2(+1)-years scholarship covers a full PhD project and was awarded to me on July/2016 for my project “Mesoscopic Transport Theory for Graphene Nanostructures".
+    3-years scholarship that covers a full PhD project and was awarded to me on July/2016 for my project “Mesoscopic Transport Theory for Graphene Nanostructures".
 
 # Publications
 
