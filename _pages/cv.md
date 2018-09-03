@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 
-* Ph.D. with title "Mesoscopic Transport Theory for Graphene Nanostructures", Max Planck Institute for Dynamics and Self-Organization & University of Göttingen, Germany (ongoing)
+* Ph.D. (ongoing) with title "Mesoscopic Transport Theory for Graphene Nanostructures", Max Planck Institute for Dynamics and Self-Organization & University of Göttingen, Germany
 * M.Sc. in Physics of Materials, University of Athens, 2014-2016. *Grade: 9.28/10.0*
 * B.Sc. in Physics, University of Athens, 2009-2014. *Grade: 8.06/10.0*
 
