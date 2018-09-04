@@ -7,6 +7,7 @@ venue: "JuliaCon 2018"
 date: 2018-08-09
 location: "London, England"
 ---
+You can watch this talk on youtube here: https://www.youtube.com/watch?v=7y-ahkUsIrY
 
 In this talk I argue about the strengths of the Julia programming language and I state why I believe every scientist should just drop whatever god-forsaken language they use and switch to Julia.
 
