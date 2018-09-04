@@ -1,0 +1,13 @@
+---
+title: "Why Julia is the most suitable language for science... and how we use it in JuliaDynamics"
+collection: talks
+type: "Talk"
+permalink: /talks/2018_julia
+venue: "JuliaCon 2018"
+date: 2018-03-01
+location: "London, England"
+---
+
+In this talk I argue about the strengths of the Julia programming language and I state why I believe every scientist should just drop whatever god-forsaken language they use and switch to Julia.
+
+On the second part of the talk I demonstrate multiple examples of real-world usage of the language that justify the claims made in the first part.
