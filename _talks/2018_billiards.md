@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2018_billiards
 venue: "Dynamics Days Europe 2018"
-date: 2018-03-03
+date: 2018-09-05
 location: "Loughborough, England"
 ---
 

@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2018_julia
 venue: "JuliaCon 2018"
-date: 2018-03-01
+date: 2018-08-09
 location: "London, England"
 ---
 
