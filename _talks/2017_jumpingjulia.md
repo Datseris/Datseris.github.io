@@ -4,7 +4,7 @@ collection: talks
 type: "Tutorial"
 permalink: /talks/2017_jumpingjulia
 venue: "Max Planck Institute for Dynamics and Self-Organization"
-date: 2017-24-05
+date: 2017-05-24
 location: "Göttingen, Germany"
 ---
 
