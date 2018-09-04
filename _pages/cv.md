@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae - George Datseris"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+* Date of birth: 13-04-1991
+* Country of origin: Greece
+* Current address: Göttingen, Germany
 
 # Education
 
