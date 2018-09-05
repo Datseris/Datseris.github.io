@@ -19,18 +19,6 @@ redirect_from:
 * M.Sc. in Physics of Materials, University of Athens, 2014-2016. *Grade: 9.28/10.0*
 * B.Sc. in Physics, University of Athens, 2009-2014. *Grade: 8.06/10.0*
 
-<!-- # Work experience
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-
 # Awards
 
 * **DSWeb2018 Dynamical System Software international competition by SIAM**
@@ -62,6 +50,15 @@ redirect_from:
 
 * Most packages of [JuliaMusic](https://juliamusic.github.io/JuliaMusic_documentation.jl/latest/)
 
+# Expertise in Arts
+
+### Music
+**Professional Drummer** - Graduated from Philippos Nakas school of music in association with Berklee college of music. The diploma in modern drumset and theory of jazz music was awarded to me in July 2015. During my life as a drummer I have played in more than 30 bands while leading about half of them.
+
+
+**Spray Paint Artist** - I have hosted numerous painting exhibitions, including one at a municipal art-gallery. I have also run a free 12-week art workshop, where I voluntarily teach other people the art of spray painting (the workshop has been done 3 times so far).
+
+<img src="../images/spray/Datsas305.jpg" alt="Spray painting" width="50%">
 
 # Computer Skills
 
