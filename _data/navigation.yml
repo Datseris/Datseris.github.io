@@ -16,7 +16,7 @@ main:
     url: /music/
 
   - title: "Paintings"
-    url: /portfolio/
+    url: /paintings/
 
   - title: "CV"
     url: /cv/
