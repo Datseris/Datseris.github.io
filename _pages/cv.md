@@ -52,13 +52,12 @@ redirect_from:
 
 # Expertise in Arts
 
-### Music
 **Professional Drummer** - Graduated from Philippos Nakas school of music in association with Berklee college of music. The diploma in modern drumset and theory of jazz music was awarded to me in July 2015. During my life as a drummer I have played in more than 30 bands while leading about half of them.
 
 
 **Spray Paint Artist** - I have hosted numerous painting exhibitions, including one at a municipal art-gallery. I have also run a free 12-week art workshop, where I voluntarily teach other people the art of spray painting (the workshop has been done 3 times so far).
 
-<img src="../images/spray/Datsas305.jpg" alt="Spray painting" width="50%">
+<img src="../images/spray/Datsas305.jpg" alt="Spray painting" width="25%">
 
 # Computer Skills
 
