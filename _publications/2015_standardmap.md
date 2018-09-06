@@ -5,7 +5,7 @@ permalink: /publication/2015_standardmap
 date: 2015-06-21
 venue: 'Physical Review E'
 paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.012914'
-citation: 'G. Datseris, F. K. Diakonos, and P. Schmelcher, Phys. Rev. E 92, 012914'
+citation: 'G. Datseris, F. K. Diakonos, and P. Schmelcher, Phys. Rev. E 92, 012914 (2015)'
 ---
 
 

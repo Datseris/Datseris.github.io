@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Curriculum Vitae - George Datseris"
 permalink: /cv/
 author_profile: true
