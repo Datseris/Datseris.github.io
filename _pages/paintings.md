@@ -12,4 +12,8 @@ More paintings can be found here: https://www.facebook.com/DatsasSPA
 
 ![Spray Painting no. 305](../images/spray/Datsas305.jpg)
 
-i'll upload more soonish
+![](../images/spray/1.jpg)
+![](../images/spray/2.jpg)
+![](../images/spray/3.jpg)
+![](../images/spray/4.jpg)
+![](../images/spray/5.jpg)
