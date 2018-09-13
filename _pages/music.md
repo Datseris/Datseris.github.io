@@ -7,4 +7,7 @@ redirect_from:
   - /music
 ---
 
-Coming soon.
+<audio controls>
+ <source src="](../files/music/Greed_newtake_1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
