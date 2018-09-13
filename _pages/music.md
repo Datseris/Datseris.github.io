@@ -14,13 +14,9 @@ redirect_from:
 ## Videos
 Here are some videos of me playing drums (playalongs/live gigs/etc.)
 
-<iframe width="280"
-src="https://www.youtube.com/watch?v=6KQn43KXseg">
-</iframe>
+[![](http://img.youtube.com/vi/6KQn43KXseg/0.jpg)](http://www.youtube.com/watch?v=6KQn43KXseg "Jupyter Cover")
 
-<iframe width="280"
-src="https://www.youtube.com/watch?v=F5xkuMnOGy0">
-</iframe>
+[![](http://img.youtube.com/vi/F5xkuMnOGy0/0.jpg)](http://www.youtube.com/watch?v=F5xkuMnOGy0 "Bustin Loose cover")
 
 
 ## MP3 playalongs
@@ -50,6 +46,4 @@ Your browser does not support the audio element.
 
 
 ## Drums and programming
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=Oog_aunpVms">
-</iframe>
+Check out this video: https://www.youtube.com/watch?v=Oog_aunpVms
