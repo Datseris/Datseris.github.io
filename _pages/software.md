@@ -31,4 +31,4 @@ MotifSequenceGenerator.jl is a very simple module that does a very simple thing:
 
 ### MIDI.jl
 
-Software for reading and writting MIDI data with Julia. Also offers specialized structures for music notes.
+Software for reading and writing MIDI data with Julia. Also offers specialized structures for music notes.
