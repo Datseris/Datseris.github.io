@@ -6,10 +6,7 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Softwares"
+  - title: "Software"
     url: /software/
 
   - title: "Music"

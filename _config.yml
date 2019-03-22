@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Webpage of George Datseris"
+title                    : "Homepage of George Datseris"
 title_separator          : "-"
 name                     : &name "George Datseris"
 description              : &description "Physicist, Drummer, Programmer, Painter"
