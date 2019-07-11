@@ -7,12 +7,18 @@ redirect_from:
   - /music
 ---
 
+1. [Max Funk Institute](#max-funk-institute)
 1. [Videos](#videos)
 2. [MP3 playalongs](#mp3-playalongs)
 3. [Drums and programming](#drums-and-programming)
 
+## Max Funk Institute
+Check out the website of my amazing band, the [Max Funk Institute](www.maxfunk.info)!
+
 ## Videos
 Here are some videos of me playing drums (playalongs/live gigs/etc.)
+
+[![](http://img.youtube.com/vi/Ruv5EGnNuRM/0.jpg)](http://www.youtube.com/watch?v=Ruv5EGnNuRM "Take Five live")
 
 [![](http://img.youtube.com/vi/6KQn43KXseg/0.jpg)](http://www.youtube.com/watch?v=6KQn43KXseg "Jupyter Cover")
 

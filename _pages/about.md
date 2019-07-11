@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my webpage! My name is George Datseris, and I am a scientist, with most of my research being on Physics. I also love coding, playing the drums and painting.
+Hello and welcome to my webpage! My name is George Datseris, and I am a scientist, with most of my research being on physics and music timeseries analysis. I also love coding, playing the drums and painting.

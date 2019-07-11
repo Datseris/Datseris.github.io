@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can [download my CV from here](../files/cv_datseris.pdf). However it is always best to send me an email asking for the latest version... :)
+You can [download my CV from here](../files/Datseris_CV.pdf). However it is always best to send me an email asking for the latest version... :)
