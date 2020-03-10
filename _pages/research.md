@@ -9,19 +9,17 @@ redirect_from:
 
 My research interests can be summarized as follows:
 
-* Low dimensional chaos and Hamiltonian chaos
-* Dynamical billiards and their role in electron transport
+* Dynamical billiards and Hamiltonian chaos
 * Nonlinear timeseries analysis of climate-related observations
 * Conceptual climate models
 * Music timeseries analysis and the dynamics of music
 * Education of nonlinear dynamics
 
-The physics I was studying in my PhD was electron transport in nanodevices, both quantum and classical. For my postdoc I am turning the scales up a notch and look at planetary albedo. Throughout my career in parallel to the core physics research, I perform
-Most of my research is on physics: electron transport, nonlinear dynamics and chaos, climate physics. I also work on music timeseries analysis.
+The physics I was studying in my PhD was electron transport in nanodevices, both quantum and classical. For my postdoc I am turning the scales up a notch and look at planetary albedo. I am applying my main discipline (nonlinear dynamics) into meteorology, with a particular focus on timeseries analysis and conceptual models. In parallel to the core physics research, I am interested in music, both scientifically as well as artistically. I analyze music timeseries and try to find mathematical rules to describe both the process of playing music, as well the human perception of it.
 
 *this page only lists currently active research projects, finished projects are published (see "Publications")*
 
-Active projects:
+Currently active projects:
 
 * [Albedo symmetry](#albedo-hemispheric-symmetry)
 * [Synchronization between musicians](#synchronization-between-musicians)
@@ -49,7 +47,7 @@ While its clear that these timeseries are "random" (this pink noise we mentioned
 ## Nonlinear dynamics education
 Chaos theory is arguably one of the most beautiful frameworks to approach the world, at least from the mathematics perspective. However, nonlinear dynamics, the root of chaos theory, are very rarely tractable analytically. Thus, a "nonlinear dynamicist" always works hand-in-hand with a computer.
 
-There are dozens of textbooks on nonlinear dynamics. Oddly enough, none of them takes computer code seriously. I believe this should be changed, and education of nonlinear dynamics should occur simultaneously with code. Technology has thankfully advanced enough to allow one to solve complicated problems while writing concise, expressive, high level code. I am aiming to take advantage of this progress into a new introductory textbook about nonlinear dynamics I am co-authoring with Prof. [Ulrich Parlitz](https://www.uni-goettingen.de/en/105320.html). To give you an idea, here are to excerpts. In the fist one, a real, runnable implementation of an algorithm to compute the maximum Lyapunov exponents is shown in text as a special "Code" environment, like a "Figure" or "Table" environment:
+There are dozens of textbooks on nonlinear dynamics. Oddly enough, none of them represents code sufficiently, while most don't even talk about it. I believe this should be changed, and education of nonlinear dynamics should have both equations and code next to each other. Technology has thankfully advanced enough to allow one to solve complicated problems while writing concise, expressive, high level code. I am aiming to take advantage of this progress into a new introductory textbook about nonlinear dynamics I am co-authoring with Prof. [Ulrich Parlitz](https://www.uni-goettingen.de/en/105320.html). To give you an idea, here are two excerpts. In the fist one is a real, runnable implementation of an algorithm to compute the Lyapunov exponents. It is shown in text as a special "Code" environment, like a "Figure" or "Table" environment:
 
 ![](../files/plots/book1.PNG)
 
