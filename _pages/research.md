@@ -51,11 +51,11 @@ Chaos theory is arguably one of the most beautiful frameworks to approach the wo
 
 There are dozens of textbooks on nonlinear dynamics. Oddly enough, none of them takes computer code seriously. I believe this should be changed, and education of nonlinear dynamics should occur simultaneously with code. Technology has thankfully advanced enough to allow one to solve complicated problems while writing concise, expressive, high level code. I am aiming to take advantage of this progress into a new introductory textbook about nonlinear dynamics I am co-authoring with Prof. [Ulrich Parlitz](https://www.uni-goettingen.de/en/105320.html). To give you an idea, here are to excerpts. In the fist one, a real, runnable implementation of an algorithm to compute the maximum Lyapunov exponents is shown in text as a special "Code" environment, like a "Figure" or "Table" environment:
 
-![](../files/plots/book1.png)
+![](../files/plots/book1.PNG)
 
 In the second excerpt we show a figure of how the entropy of a chaotic set changes with the partition size. Next to the figure is the *full code necessary to reproduce it*.
 
-![](../files/plots/book2.png)
+![](../files/plots/book2.PNG)
 
 All of this is possible for two reasons: first, the code snippets use a high-level expressive new language designed for scientific computing called [Julia](https://julialang.org/). The second reason is the existence of an award-winning software library for nonlinear dynamics and chaos, called [DynamicalSystems.jl](https://juliadynamics.github.io/DynamicalSystems.jl/dev/) that I wrote while developing scientific software (see the "Software" page for more).
 
