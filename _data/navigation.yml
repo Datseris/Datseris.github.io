@@ -15,8 +15,11 @@ main:
   - title: "Music"
     url: /music/
 
-  - title: "Paintings"
-    url: /paintings/
+  # - title: "Paintings"
+  #   url: /paintings/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Making a billiard tattoo"
+    url: /tattoo/
+
+  # - title: "CV"
+  #   url: /cv/
