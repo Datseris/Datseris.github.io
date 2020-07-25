@@ -196,13 +196,15 @@ So, to make this long story short and wrap it up, I've made a (map-project) coni
 
 The result:
 
-![](../images/tattoo/arm2.png)
+![](../images/tattoo/sketch.jpg)
 
-This was directly translated into my arm, here is the real tattoo again with some guiding colors
+This was directly translated into my arm, and in fact the *hardest* part of this tattoo was getting the stencil right, and correcting all the things that went wrong. Turns out, reality is always more complicated than the approximations we do in physics :D
+
+Here is the real tattoo again with some guiding colors
 
 ![](../images/tattoo/full_guide.png)
 
-There is one small detail left: what are these waivy patterns that are on the arm but not on the sketch...? Well they are the "electron wavefunctions" of course! (quantum woo)
+There is one small detail left: what are these waivy patterns that are on the arm but not on the sketch...? Well they are the "electron wavefunctions" of course (quantum woo)! But they also help break the time symmetry of billiards (they are the only way to tell the "direction" of the trajectory)
 
 ---
 
