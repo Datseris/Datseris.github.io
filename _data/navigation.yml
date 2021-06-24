@@ -18,8 +18,8 @@ main:
   # - title: "Paintings"
   #   url: /paintings/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Making a billiard tattoo"
     url: /tattoo/
-
-  # - title: "CV"
-  #   url: /cv/

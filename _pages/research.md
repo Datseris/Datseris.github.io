@@ -12,18 +12,20 @@ My research interests can be summarized as follows:
 * Conceptual climate models
 * Nonlinear timeseries analysis of climate-related observations
 * Education of nonlinear dynamics
+* Scientific reproducibility
 * Music timeseries analysis and the dynamics of music
 * Dynamical billiards and Hamiltonian chaos
 
-The physics I was studying in my PhD was electron transport in nanodevices, both quantum and classical. For my postdoc I am turning the scales up a notch and look at planetary albedo. I am applying my main discipline (nonlinear dynamics) into meteorology, with a particular focus on timeseries analysis and conceptual models. In parallel to the core physics research, I am interested in music, both scientifically as well as artistically. I analyze music timeseries and try to find mathematical rules to describe both the process of playing music, as well the human perception of it.
+The physics I was studying in my PhD was electron transport in nanodevices, both quantum and classical. For my postdoc I am turning the scales up a notch, currently studying planetary albedo. I am applying my main discipline (nonlinear dynamics) into meteorology, with a particular focus on timeseries analysis and conceptual models. In parallel to the core physics research, I am interested in music, both scientifically as well as artistically. I analyze music timeseries and try to find mathematical rules to describe both the process of playing music, as well the human perception of it.
 
 *this page only lists currently active research projects, finished projects are published (see "Publications")*
 
 Currently active projects:
 
-* [Planetary albedo](#planetary-albedo)
-* [Synchronization between musicians](#synchronization-between-musicians)
-* [Nonlinear dynamics education](#nonlinear-dynamics-education)
+1. [Planetary albedo](#planetary-albedo)
+2. [Synchronization between musicians](#synchronization-between-musicians)
+3. [Nonlinear dynamics education](#nonlinear-dynamics-education)
+4. [Scientific reproducibility](#scientific-reproducibility)
 
 ## Planetary albedo
 The planetary albedo α, an intrinsic property of a planet, measures the average amount of reflected solar radiation, as seen from space.
@@ -70,3 +72,12 @@ In the second excerpt we show a figure of how the entropy of a chaotic set chang
 All of this is possible for two reasons: first, the code snippets use a high-level expressive new language designed for scientific computing called [Julia](https://julialang.org/). The second reason is the existence of an award-winning software library for nonlinear dynamics and chaos, called [DynamicalSystems.jl](https://juliadynamics.github.io/DynamicalSystems.jl/dev/) that I wrote while developing scientific software (see the "Software" page for more).
 
 Having such a book comes with clear advantages: the students don't have to spend hours, or even days, writing a code implementation of an algorithm they read about, and they can instead experiment with it immediately. In addition this way there is education about code, which for a nonlinear dynamicist is certainly "half part of the job".
+
+## Scientific reproducibility
+
+Science is hard, and reproducing it is just as hard. There are many difficulties, but what I am interested in resolving is the difficulty of reproducing scientific code. After years of work, we have managed to create a simple software that makes reproducing a scientific project a piece of cake. For more details on that front, I invite you to have a look at our short paper on this software, called [DrWatson](https://joss.theoj.org/papers/10.21105/joss.02673).
+
+Besides good software however, the scientific community needs an even bigger change to truly resolve the difficulty of reproducing scientific work. And that is, to embrace code as an integral part of science, just as integral as mathematical equations. In short, I believe that if you feel the need to publish in your paper the mathematical equations you used and derived in your work, then you should feel just as strong of a need to publish the code you used.
+What makes this not so straightforward is that just putting code somewhere is not good enough. We must also ensure that the code is actually reproducible. To do this, I think we need to properly educate students on how to write good code, how to make it reproducible, and how to share it.
+
+I'm currently working on producing such lectures. An initial work on this topic can be found in the following [YouTube video](https://www.youtube.com/watch?v=iIIBFujl254).
