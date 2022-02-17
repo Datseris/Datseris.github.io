@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can [download my CV from here](../files/Datseris_CV.pdf). Last update on the CV: 21-Aug-2021.
+You can [download my CV from here](../files/Datseris_CV.pdf).
+
+Last update on the CV: 17-Feb-2022.
