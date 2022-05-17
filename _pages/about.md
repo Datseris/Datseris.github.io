@@ -14,4 +14,4 @@ My name is George Datseris. I am a theoretical physicist and a nonlinear dynamic
 
 My scientific interests are summarized in [Research Interests](/research). Partly as my job, but also on my free time, I do software development, my main goal being high quality scientific software. You can check me out on GitHub, or see [Software](/software) for the things I have developed so far.
 
-My hobbies are playing the drums, bouldering, painting, and any sorts of games (board, video, billiards), Checkout [Music](/music) to have a look at some live music of mine.
+My hobbies are [playing the drums](/music), bouldering, [painting](https://www.facebook.com/DatsasSPA/), and playing videogames, boardgames, billiards.
