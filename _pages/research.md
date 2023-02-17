@@ -14,26 +14,28 @@ I am active in a broad spectrum of complex systems: from approaching climate con
 
 ### Summary of Current Research
 
-1. [Conceptual models for climate](#conceptual-models-for-climate)
+1. [Conceptual models for global cloudiness](#conceptual-models-for-global-cloudiness)
 2. [Timeseries analysis of climatic observations](#timeseries-analysis-of-climatic-observations)
 3. [Complex systems methodology and software](#complex-systems-methodology-and-software)
 4. [Practical approach to education](#practical-approach-to-education)
 5. [Dynamics of music performances](#dynamics-of-music-performances)
 
-## Conceptual models for climate
-Weather is the paradigmatic example of chaotic systems. Atmospheric turbulence is a process so complicated, that scientists that develop forecasting models prefer to represent turbulence as a noise process instead [2]. But even though our planet is so large, with an almost overwhelming amount of chaotic turbulence, climate is in a sense much simpler. Larger and simpler patterns emerge, such as the robust seasonal cycle of most climatic variables. and the more we look into the past, the more of such patterns we see. For example, it is by now well established that Earth's climate has gone through several "cycles" between a glacial state, and a state similar to today's climate [3]. 
+## Conceptual models for global cloudiness
+Weather is the paradigmatic example of chaotic systems. Atmospheric turbulence is a process so complicated, that scientists that develop forecasting models prefer to represent turbulence as a noise process instead [2]. But even though our planet is so large, with an almost overwhelming amount of chaotic turbulence, climate is in a sense much simpler. Larger and simpler patterns emerge, such as the robust seasonal cycle of most climatic variables. and the more we look into the past, the more of such patterns we see. For example, it is by now well established that Earth's climate has gone through several "cycles" between a glacial state, and a state similar to today's climate [3].
 
-I am currently trying to derive such a simple emergent picture for planetary cloudiness, one of the most complex, but also most beautiful components of the climate system. I will be posting more details as more progress comes on this front.
+I am currently trying to derive such a simple emergent picture for planetary cloudiness, one of the most complex, but also most beautiful components of the climate system. I will be posting more details as more progress comes on this front!
 
 ## Timeseries analysis of climatic observations
 I am interested in applying timeseries analysis techniques to discover connections, and maybe even rules, governing components of the climate system. I am routinely using a combination of methodologies from rigorous statistics and nonlinear timeseries analysis on observational and/or paleoclimate datasets. For example, in a recent paper with Bjorn Stevens, we were able to apply the technique of surrogate timeseries in the curious case of Earth's hemispheric albedo symmetry [4]. We showed that if some emergent, large-scale mechanism exists that establishes this symmetry, its timescale should be decadal to centurial.
 
-At the moment, I am using similar approaches to understand how temperature differences between warm and cold ocean regions behave as the climate system evolves over millennial timescales.
+At the moment, I am nonlinear timeseries analysis and causal timeseries analysis to understand (1) how temperature differences between warm and cold ocean regions behave as the climate system evolves over millennial timescales and (2) what are the causal mesoscale drivers of cloudiness.
 
 ## Complex systems methodology and software
-I make no distinction between scientific methodology and software development. None whatsoever. Just as a methodological advancement may enable understanding a system from a new perspective, just as well a high-quality software may make an analysis more natural, more effortless, hence leading to similar level of breakthroughs. Developing both methodologies and software needs creativity, ingenuity and really hard work. Unfortunately, spending time on software is not rewarded by typical "measures of scientific success", but I am actively advocating for a change on this front.
+I don't really make a distinction between scientific methodology and software development. Just as a methodological advancement may enable understanding a system from a new perspective, just as well a high-quality software may make an analysis more natural, more effortless, hence leading to similar level of breakthroughs. Similarly, a poorly design software can make all new PhD students waste their first 6 months trying to get a model to run...
 
-With a lot of talented people we constitute [JuliaDynamics](https://github.com/JuliaDynamics), of which I am the lead developer. There we are developing new software that allow analyzing complex systems with much less effort that ever before. The same software, due their intuitive structure and extendability, also allow us to create new algorithms that surpass existing ones in both usability, but also performance. The most important aspect of our efforts however, is their openness. We take extra care so that the open source code we write is transparent and accessible. 
+Developing both methodologies and software needs creativity, ingenuity and really hard work. Unfortunately, spending time on software is not rewarded by typical "measures of scientific success", but I am actively advocating for a change on this front.
+
+With a lot of talented people we constitute [JuliaDynamics](https://github.com/JuliaDynamics), of which I am the lead developer. There we are developing new software that allow analyzing complex systems with much less effort that ever before. The same software, due their intuitive structure and extendability, also allow us to create new algorithms that surpass existing ones in both usability, but also performance. The most important aspect of our efforts however, is their openness. We take extra care so that the open source code we write is transparent and accessible.
 
 In my own experience this openness has led to much more collaborations I could think of. For example, our work on Agents.jl, a framework for agent based modelling used for e.g. socioeconomic systems, showed that we have designed something better and simpler than ever before [5]. Other software, such as DynamicalSystems.jl, allowed us to develop a generic algorithm for finding attractors for arbitrary dynamical systems [6]. Such generality would be really difficult to achieve if we were to start from zero, without having a generic library to begin with. I strongly believe that [JuliaDynamics](https://github.com/JuliaDynamics) is a living example of how scientific algorithms and software quality should not be thought of as independent things.
 
