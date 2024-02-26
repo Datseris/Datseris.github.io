@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of George Datseris"
+title                    : "Website of George Datseris"
 title_separator          : "-"
 name                     : &name "George Datseris"
 description              : &description "Nonlinear Dynamics"

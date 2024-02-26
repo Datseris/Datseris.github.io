@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Webpage of George Datseris"
+title: "Web of George Datseris"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my webpage!
+Hello and welcome to my website! I am currently working in the University of Exeter as a Marie Sklodowska-Curie Postdoctoral Fellow.
 
-My name is George Datseris. I am a theoretical physicist and a nonlinear dynamicist. This means that I am interested in understanding parts of the world traditionally classified as "physics", while I try to do that using methods from nonlinear dynamics and chaos. I did my PhD (finished October 2019) in the Max Planck Institute for Dynamics and Self-Organization on electron transport in nanodevices. Then I changed fields into climate science, as I did a postdoc on global cloudiness in the Max Planck Institute for Meteorology. Now I am a Royal Society International Newton Fellow, and after that a Marie Skłodowska-Curie Postdoctoral Fellow, at the University of Exeter.
+I am an applied physicist/mathematician with a broad interest in **nonlinear dynamics and complex systems** and their application to understand the physical world at a conceptual level. My scientific interests are summarized in [Research Interests](/research), and current main focus in my research is understanding the interaction of clouds and climate and multistability in climate. Besides research, I am the lead developer of the JuliaDynamics software organization (see [software](/software)), an advocate of open source code and good scientific code practices in academia, and passionate about teaching applied physics/mathematics with a fresh, hands-on computational style.
 
-My scientific interests are summarized in [Research Interests](/research). Partly as my job, but also on my free time, I do software development, my main goal being high quality scientific software. You can check me out on GitHub, or see [Software](/software) for the things I have developed so far.
+I am always interested in **supervising thesis projects for BSc, MSc, or even PhD level** (by co-authoring a funding proposal).
+I have several projects ideas already outlined, some specialized in climate, some in nonlinear dynamics, and some in other topics likes music or computer science.
+I am also interested in collaborating with the potential student to develop a new project that best fits their particular interests, provided it also aligns with some of my research interests as well. Feel free to contact me if for potential supervision!
 
-My hobbies are [playing the drums](/music), bouldering, [painting](https://www.facebook.com/DatsasSPA/), and playing games in general: videogames, boardgames, billiards.
+My hobbies are [playing the drums](/music), bouldering, [painting](https://www.facebook.com/DatsasSPA/), and videogames, boardgames, billiards.
