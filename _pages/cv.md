@@ -9,4 +9,4 @@ redirect_from:
 
 You can [download my CV from here](../files/Datseris_CV.pdf).
 
-Last update on the CV: 16-Sep-2022.
+Last update on the CV: 22-Mar-2023.
