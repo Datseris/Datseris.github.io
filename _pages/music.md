@@ -7,7 +7,7 @@ redirect_from:
   - /music
 ---
 
-Although my actual profession is physicist, I consider myself a professional drummer. I graduated from Philippos Nakas conservatory (official collaborator of Berkley college of music) in 2015 and since then I haven't stopped practicing and playing live music. My biggest success in music so far is undeniably my band the [Max Funk Institute](https://www.maxfunk.info/).
+Although my actual profession is physicist, I consider myself a professional drummer. I graduated from Philippos Nakas conservatory (official collaborator of Berkley college of music) in 2015 and since then I haven't stopped practicing and playing live music. My biggest success in music so far is the [Max Funk Institute]([https://www.maxfunk.info/](https://www.youtube.com/@maxfunkinstitute8233/videos)) that I started while doing my PhD in Geottingen and I've played with for 4 years.
 
 Since I also do actual research on music, I have developed software that allow me to analyze music easily. I realized that I can use these software to get better on the drums, which I illustrate in this [YouTube video](https://www.youtube.com/watch?v=Oog_aunpVms). You could use these too!
 
