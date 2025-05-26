@@ -210,8 +210,9 @@ There is one small detail left: what are these waivy patterns that are on the ar
 
 ## References
 
-[1]: https://iopscience.iop.org/article/10.1088/1367-2630/ab19cc/meta
 
-[2]: https://aip.scitation.org/doi/full/10.1063/1.5099446
+1: https://iopscience.iop.org/article/10.1088/1367-2630/ab19cc/meta
 
-[3]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi284b_gNnqAhVR3qQKHbiJBucQFjABegQIBBAB&url=https%3A%2F%2Fediss.uni-goettingen.de%2Fbitstream%2Fhandle%2F21.11130%2F00-1735-0000-0005-1278-0%2Fthesis_datseris.pdf%3Fsequence%3D1&usg=AOvVaw07G-SBOTd5MzR7IGH02eYa
+2: https://aip.scitation.org/doi/full/10.1063/1.5099446
+
+3: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi284b_gNnqAhVR3qQKHbiJBucQFjABegQIBBAB&url=https%3A%2F%2Fediss.uni-goettingen.de%2Fbitstream%2Fhandle%2F21.11130%2F00-1735-0000-0005-1278-0%2Fthesis_datseris.pdf%3Fsequence%3D1&usg=AOvVaw07G-SBOTd5MzR7IGH02eYa
